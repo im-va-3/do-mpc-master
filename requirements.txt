@@ -1,0 +1,5 @@
+casadi>=3.6.0
+scipy
+numpy
+matplotlib
+pandas
